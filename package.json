@@ -1,7 +1,7 @@
 {
-  "name": "react-spinkit",
+  "name": "react-spinkit-systemjs",
   "description": "A collection of loading indicators animated with CSS for React",
-  "version": "2.0",
+  "version": "1.1.11",
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",
   "browserify": {
     "transform": [
@@ -44,7 +44,7 @@
     "spinners"
   ],
   "license": "MIT",
-  "main": "src/index.jsx",
+  "main": "dist/index.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/funn/react-spinkit.git"
