@@ -1,17 +1,17 @@
 import React from 'react'; // eslint-disable-line import/no-extraneous-dependencies
 import cx from 'classnames';
 import assign from 'object-assign';
-import '../css/fade-in.css';
-import '../css/chasing-dots.css';
-import '../css/circle.css';
-import '../css/cube-grid.css';
-import '../css/double-bounce.css';
-import '../css/pulse.css';
-import '../css/rotating-plane.css';
-import '../css/three-bounce.css';
-import '../css/wandering-cubes.css';
-import '../css/wave.css';
-import '../css/wordpress.css';
+import '../css/fade-in.css!';
+import '../css/chasing-dots.css!';
+import '../css/circle.css!';
+import '../css/cube-grid.css!';
+import '../css/double-bounce.css!';
+import '../css/pulse.css!';
+import '../css/rotating-plane.css!';
+import '../css/three-bounce.css!';
+import '../css/wandering-cubes.css!';
+import '../css/wave.css!';
+import '../css/wordpress.css!';
 
 class Spinner extends React.Component {
 
